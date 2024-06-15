@@ -3,7 +3,9 @@
 🛠️ Currently working with Go and Python.
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/pavel-švejda-a547861a1/).
-  
+
+
+✍️ Some of my Showmax blogposts can be found [here](/blogposts).
 
 <!--
 **westwardharbor0/westwardharbor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
